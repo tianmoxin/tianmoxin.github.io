@@ -1,2 +1,0 @@
-# tianmoxin.github.io
-blog
